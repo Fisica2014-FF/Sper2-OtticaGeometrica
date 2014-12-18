@@ -1,0 +1,26 @@
+# set title  "Dati decadimento 0.965d"
+
+# set xlabel "Frequenza: [???]"
+# set ylabel "Ampiezza [???]"
+
+# plot "dati_formattati/0.965d" u 1:3
+
+set terminal tikz
+
+set border 3 front linetype -1 linewidth 1.000
+set xtics border in nomirror rangelimit
+set ytics border in nomirror rangelimit
+
+
+do for [f in "0.900d  0.920d  0.940d  0.960d  0.965d  0.966d  0.967d  0.968d  0.969d  0.970d  0.975d  0.980d  1.000d  1.020d  1.060d  1.080d"] {
+    outfile='gnuplot/immagini/'.f.'gdecad.tex'
+    set output outfile
+    set title  ""
+    
+    set xlabel "Tempo $[s]$"
+    set ylabel "Ampiezza [giri]"
+	
+
+    plot "dati_formattati/".f u 1:3 title "" with lines lc rgb "blue", \
+    "risultati/Smorzamento/grafici_smorz/seno_unitario/seno_".f title "Punti tangenza" with points pointtype 3 linecolor rgb "red"
+}

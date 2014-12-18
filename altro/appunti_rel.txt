@@ -1,0 +1,6 @@
+5 esperienze
+paralleli: 1 grafico, 1 tabella, 1 programma
+coniugati: 1 grafico, 1 tabella, 1 fit
+bessel: 1 tabella, medie e errori
+aberrazione sferica, tabella
+Abbe: Tabella e calcoli

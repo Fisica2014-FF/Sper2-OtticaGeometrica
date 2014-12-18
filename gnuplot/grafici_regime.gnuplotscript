@@ -1,0 +1,24 @@
+# set title  "Dati decadimento 0.965d"
+
+# set xlabel "Frequenza: [???]"
+# set ylabel "Ampiezza [???]"
+
+# plot "dati_formattati/0.965d" u 1:3
+
+set terminal tikz
+
+set border 3 front linetype -1 linewidth 1.000
+set xtics border in nomirror rangelimit
+set ytics border in nomirror rangelimit
+
+
+do for [f in "0.900  0.920  0.940  0.960  0.965  0.966  0.967  0.968  0.969  0.970  0.975  0.980  1.000  1.020  1.060  1.080  1.100"] {
+    outfile='gnuplot/immagini/'.f.'greg.tex'
+    set output outfile
+    set title  ""
+    
+    set xlabel "Tempo $[s]$"
+    set ylabel "Ampiezza $[giri]$"
+
+    plot "dati_formattati/".f u 1:3 title "" with lines lc rgb "blue", "risultati/Regime/".f."_maxmin" title "Massimi e minimi" with points pointtype 3 linecolor rgb "red"
+}

@@ -1,0 +1,183 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5708,        173]
+NotebookOptionsPosition[      4922,        141]
+NotebookOutlinePosition[      5259,        156]
+CellTagsIndexPosition[      5216,        153]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"ReadList", "[", "\"\<~/Dropbox/Laboratorio/03dat.txt\>\"", 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.6273875478892603`*^9, 3.627387693314424*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"ReadList", "::", "readt"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"Invalid input found when reading \[NoBreak]\\!\\(\\\"# \
+Prima colonna: fuoco vicino all'oggetto, seconda colonna: fuoco vicino allo \
+schermo\\\\n\\\"\\)\[NoBreak] from \
+\[NoBreak]\\!\\(\\\"~/Dropbox/Laboratorio/03dat.txt\\\"\\)\[NoBreak]. \
+\\!\\(\\*ButtonBox[\\\"\[RightSkeleton]\\\", ButtonStyle->\\\"Link\\\", \
+ButtonFrame->None, ButtonData:>\\\"paclet:ref/message/ReadList/readt\\\", \
+ButtonNote -> \\\"ReadList::readt\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{{3.6273876873971453`*^9, 3.627387693865015*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", "$Failed", "}"}]], "Output",
+ CellChangeTimes->{{3.627387671392267*^9, 3.627387693867963*^9}}]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.627387659218031*^9, 3.627387660592739*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ReadList", "[", 
+  RowBox[{"\"\<~/Dropbox/Laboratorio/03dat.txt\>\"", ",", 
+   RowBox[{"AllNumeric", " ", "\[Rule]", " ", "False"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.6273879849958344`*^9, 3.627387995276257*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"ReadList", "::", "optx"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"Unknown option \[NoBreak]\\!\\(AllNumeric\\)\[NoBreak] in \
+\[NoBreak]\\!\\(ReadList[\\(\\(\\\"~/Dropbox/Laboratorio/03dat.txt\\\", \
+\\(\\(AllNumeric \[Rule] False\\)\\)\\)\\)]\\)\[NoBreak]. \\!\\(\\*ButtonBox[\
+\\\"\[RightSkeleton]\\\", ButtonStyle->\\\"Link\\\", ButtonFrame->None, \
+ButtonData:>\\\"paclet:ref/message/General/optx\\\", ButtonNote -> \
+\\\"ReadList::optx\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.6273879984680967`*^9}],
+
+Cell[BoxData[
+ RowBox[{"ReadList", "[", 
+  RowBox[{"\<\"~/Dropbox/Laboratorio/03dat.txt\"\>", ",", 
+   RowBox[{"AllNumeric", "\[Rule]", "False"}]}], "]"}]], "Output",
+ CellChangeTimes->{3.627387998496924*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Import", "[", 
+  RowBox[{"\"\<~/Dropbox/Laboratorio/03dat.txt\>\"", ",", " ", "Table"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.627388019170162*^9, 3.6273880772350273`*^9}, {
+  3.6273889143957863`*^9, 3.62738891797169*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"Import", "::", "noelem"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"The Import element \
+\\\"\[NoBreak]\\!\\(Table\\)\[NoBreak]\\\" is not present when importing as \
+\[NoBreak]\\!\\(\\\"Text\\\"\\)\[NoBreak]. \\!\\(\\*ButtonBox[\\\"\
+\[RightSkeleton]\\\", ButtonStyle->\\\"Link\\\", ButtonFrame->None, \
+ButtonData:>\\\"paclet:ref/Import\\\", ButtonNote -> \
+\\\"Import::noelem\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.627388918888002*^9, 3.627389008160322*^9}],
+
+Cell[BoxData["$Failed"], "Output",
+ CellChangeTimes->{{3.627388050284731*^9, 3.627388077954335*^9}, 
+   3.627388918933515*^9, 3.6273890081622133`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ReadList", "[", 
+  RowBox[{"\"\<~/Dropbox/Laboratorio/03dat.txt\>\"", ",", "Number", ",", 
+   RowBox[{"RecordLists", "\[Rule]", "True"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.627389015752479*^9, 3.627389029962556*^9}, {
+  3.627389094608396*^9, 3.627389118817102*^9}, {3.6273891651829147`*^9, 
+  3.6273891695926933`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"27.75`", ",", "45.8`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.7`", ",", "46.05`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.6`", ",", "45.85`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.7`", ",", "46.`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.65`", ",", "45.95`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.7`", ",", "46.`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.65`", ",", "45.95`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.8`", ",", "45.95`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.65`", ",", "45.95`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27.7`", ",", "45.95`"}], "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{{3.6273890167045527`*^9, 3.6273890270130777`*^9}, 
+   3.627389100633102*^9, 3.62738917082802*^9}]
+}, Open  ]]
+},
+WindowSize->{1366, 748},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"10.0 for Linux x86 (64-bit) (September 9, 2014)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 170, 3, 32, "Input"],
+Cell[753, 27, 653, 12, 41, "Message"],
+Cell[1409, 41, 122, 2, 32, "Output"]
+}, Open  ]],
+Cell[1546, 46, 92, 1, 32, "Input"],
+Cell[CellGroupData[{
+Cell[1663, 51, 243, 4, 32, "Input"],
+Cell[1909, 57, 575, 11, 23, "Message"],
+Cell[2487, 70, 208, 4, 32, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2732, 79, 250, 5, 32, "Input"],
+Cell[2985, 86, 531, 11, 23, "Message"],
+Cell[3519, 99, 150, 2, 32, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3706, 106, 348, 6, 32, "Input"],
+Cell[4057, 114, 849, 24, 112, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

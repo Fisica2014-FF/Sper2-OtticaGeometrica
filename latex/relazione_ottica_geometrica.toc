@@ -1,0 +1,13 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {I}Apparato strumentale}{3}{section.1}
+\contentsline {section}{\numberline {II}Metodologia di misura}{4}{section.2}
+\contentsline {section}{\numberline {III}Presentazione dei dati}{8}{section.3}
+\contentsline {subsection}{\numberline {I}Autocollimazione}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {II}Punti coniugati}{10}{subsection.3.2}
+\contentsline {subsection}{\numberline {III}Bessel}{18}{subsection.3.3}
+\contentsline {subsection}{\numberline {IV}Aberrazione sferica}{19}{subsection.3.4}
+\contentsline {subsection}{\numberline {V}Aberrazione cromatica}{21}{subsection.3.5}
+\contentsline {section}{\numberline {IV}Analisi dei dati}{22}{section.4}
+\contentsline {section}{\numberline {V}Conclusioni}{23}{section.5}
+\contentsline {section}{\numberline {VI}Codice}{24}{section.6}

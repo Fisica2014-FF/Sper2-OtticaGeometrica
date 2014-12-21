@@ -38,7 +38,7 @@ int main ()
 				(diff(yi , f2par) * diff(yi , f2par) );
 	cerr << "Il tuo Ftest per il fit ad un parametro e due parametri ha dato un risultato di " << Ftest << " ora vai a "
 	     << "controllarlo in una tabella che dà le probabilità per la distribuzione di Fisher per capire quale delle due "
-	     << "interpolazioni è migliore, prendi quella a due parametri se f(Ftest) > CL";
+	     << "interpolazioni è milgiore, prendi quella a due parametri se f(Ftest) > CL";
 	return 0;
 	
 	

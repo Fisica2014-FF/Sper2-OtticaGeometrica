@@ -4,3 +4,35 @@ coniugati: 1 grafico, 1 tabella, 1 fit
 bessel: 1 tabella, medie e errori
 aberrazione sferica, tabella
 Abbe: Tabella e calcoli
+
+
+BESSEL
+come abbiamo trattato i dati.
+Schermo a tot distanza e lampadina a tot distanza
+Tabella 4 col
+-Dist lampadina (fissa) P0
+-Prima col betadat
+-seconda col betadat
+-Distanza schermo (=55) Ps
+-L = Ps?
+-S
+-Fuoco F
+-SigmaFuoco 
+
+
+A partire da questi dati abbiamo un fuoco trovato con formula con mathematica
+Presento la L e la S per ogni riga
+Media pesata ed errore
+
+
+
+Come scrivere "derivata valutata in un punto" in modo figo
+Assumendo che uno scriva \frac{*}{*}| (nota che questo non becca solo la derivata ma tutte le frazioni con una pipe davanti)
+cercare
+(\\frac\{.*?\}\{.*?\})\|
+e sostituire con
+\\left\.\1\\right\|
+(da http://en.wikibooks.org/wiki/LaTeX/Mathematics#Automatic_sizing
+
+Mentre per le parentesi sostituire semplicemente ( e ) con \left( e right)
+

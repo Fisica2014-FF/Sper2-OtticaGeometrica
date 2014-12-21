@@ -13,7 +13,7 @@ relazione: $(PDF_RELAZIONE)
 $(PDF_RELAZIONE): grafici
 	echo "Faccio il pdf..."
 #Ogni riga viene eseguita in una subshell diversa, quindi se faccio cd devo mettere sulla stessa linea gli altri comandi che necessitano dell'effetto di cd
-	cd ./latex; pwd; pdflatex ./Relazione_*.tex
+	cd ./latex; pwd; pdflatex ./relazione_*.tex
 
 grafici: generaGnuplotScript
 	echo "Faccio i grafici..."

@@ -4,13 +4,22 @@
 %\usepackage{multirow}
 %\usepackage[top=3.6cm, bottom=1.5in, left=0.5in, right=0.5in]{geometry}
 
-
 % I miei stili di float, con le righe
 \floatstyle{plaintop}
-\newfloat{tabella}{H}{lop}
+\newfloat{tabella}{tb}{lop}
 \floatname{tabella}{Tabella}
 
 \floatstyle{plaintop}
-\newfloat{grafico}{H}{lop}
+\newfloat{grafico}{tb}{lop}
 \floatname{grafico}{Grafico}
+
+\newcommand{\tabellaautorefname}{\bfseries Tabella}
+\newcommand{\graficoautorefname}{\bfseries Grafico}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5%%%%%%%%%%%%%
+
+\newcommand{\cm}{\,\mathrm{cm}}
+\DeclareMathOperator{\cov}{cov} % Covarianza
+\DeclareMathOperator{\var}{var} % Covarianza
+\newcommand{\mm}{\,\mathrm{mm}}
+\newcommand{\usuq}{\nicefrac{1}{q}}
+\newcommand{\usup}{\nicefrac{1}{p}}

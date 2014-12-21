@@ -49,10 +49,12 @@
 
 
 \usepackage{graphicx}		% Per le immagini
-\usepackage{color}		% COLORI!
+\usepackage{fixltx2e}
+%\usepackage{color}		% COLORI!
 
-\definecolor{grigio-molto-scuro}{gray}{0.1}	%colore
+%\definecolor{grigio-molto-scuro}{gray}{0.1}	%colore
 
+\usepackage{tabularx}		% Per le tabelle con le colonne tutte uguali
 \usepackage{tabulary}		% Tabelle migliorate, nelle celle il testo va a capo da solo...
 \usepackage{gnuplot-lua-tikz}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -62,19 +64,22 @@
 	    %hmargin=0.18\paperwidth,% metti la larghezza del testo (margini orizzontali) al 18% del foglio
 	    textwidth=2.4\alphabet,  % http://tex.stackexchange.com/questions/59626/nicely-force-66-characters-per-line
 	    hmarginratio=1:1,       % margini destro e sinistro uguali
-	    top=32mm,	            % margine sopra a 32mm...
-	    vmarginratio=1:1,       % quello sotto uguale (default 2:3)
+	    top=35mm,	            % margine sopra a 32mm...
+	    vmarginratio=4:5,       % quello sotto uguale (default 2:3)
 	    columnsep=20pt]         % Spazio tra le colonne?
 	    {geometry} % Document margins
 \usepackage{multicol} % Used for the two-column layout of the document
 \usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
 \usepackage{booktabs} % Horizontal rules in tables
 \usepackage{float} % Required for tables and figures in the multi-column environment - they need to be placed in specific locations with the [H] (e.g. \begin{table}[H])
-%\usepackage{hyperref} % For hyperlinks in the PDF
-\usepackage{siunitx}
+\usepackage[hidelinks]{hyperref} % For hyperlinks in the PDF
+\usepackage{nicefrac} % Per le frazioni tipo ⅛
+\usepackage{pdfpages} % Per includere pagine intere in pdf (per la copertina)
+%\usepackage[squaren]{siunitx}
 
 \usepackage{lettrine} % The lettrine is the first enlarged letter at the beginning of the text
 \usepackage{paralist} % Used for the compactitem environment which makes bullet points with less space between them
+\usepackage[section]{placeins} % Per \FloatBarrier. L'opzione section comporta che le sezioni siano floatbarriers
 
 \usepackage{abstract} % Allows abstract customization
 \renewcommand{\abstractnamefont}{\normalfont\bfseries} % Set the "Abstract" text to bold
@@ -127,6 +132,7 @@
 \pagestyle{fancy} % All pages have headers and footers
 \fancyhead{} % Blank out the default header
 \fancyfoot{} % Blank out the default footer
-\fancyhead[C]{Forcher, Chiappara, Labanca - \textit{Pendolo a Torsione} $\bullet$ \thesection} % Custom header text. \nouppercase{\leftmark} per sezione, ma non ci sta
+\headheight=14pt % Perchè sennò continua a lamentarsi che 12pt è troppo poco e la mette a 14 lo stesso
+\fancyhead[C]{Chiappara, Labanca, Forcher - \textit{Ottica geometrica} $\bullet$ \thesection} % Custom header text. \nouppercase{\leftmark} per sezione, ma non ci sta
 \fancyfoot[RO,LE]{\thepage} % Custom footer text
 

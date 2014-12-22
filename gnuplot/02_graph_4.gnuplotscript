@@ -11,4 +11,9 @@ fit f(x) 'dati_formattati/02betadatgraph.fdat' via a
 fit g(x) 'dati_formattati/MCgraphminus.fdat' via b
 fit h(x) 'dati_formattati/MCgraphplus.fdat' via c
 
-plot "dati_formattati/02betadatgraph.fdat" title "Campione originario", "dati_formattati/MCgraphminus.fdat" title "Campione per difetto", "dati_formattati/MCgraphplus.fdat" title "Campione per eccesso", f(x) title "Fit", g(x) title "Fit per difetto" , h(x) title "Fit per eccesso"
+plot "dati_formattati/02betadatgraph.fdat" title "Campione originario" lt rgb '#007800',\
+"dati_formattati/MCgraphminus.fdat" title "Campione per difetto" lt rgb '#0000db',\
+"dati_formattati/MCgraphplus.fdat" title "Campione per eccesso" lt rgb '#f97101',\
+f(x) title "Fit" lt 1 lc rgb '#69c300',\
+g(x) title "Fit per difetto" lt rgb '#8181ff',\
+h(x) title "Fit per eccesso" lt rgb '#ffff01' #verde, blu, arancione scuro, verdino, azzurro, giallo scuro

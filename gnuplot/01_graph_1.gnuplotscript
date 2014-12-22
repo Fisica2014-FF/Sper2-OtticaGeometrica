@@ -1,0 +1,53 @@
+set terminal tikz
+set output 'gnuplot/immagini/01_graph_1.tex'
+set xlabel '$\mu [\cm]$'
+set ylabel '$diametro [\mm]$'
+
+fv(x) = 0.175369 * x + 11.7421
+fl(x) = 24.7409 * x + 0.123264
+
+stats 'dati_formattati/01dat.txt'
+
+set border 3 front linetype -1 linewidth 1.000
+set xtics border in nomirror rangelimit
+set ytics border in nomirror rangelimit
+
+set offsets graph 0.05, 0.05, 0.05, 0.05
+
+
+#set xtics STATS_min_x,(STATS_max_x-STATS_min_x)/2.0,STATS_max_x
+
+#set output 'gnuplot/immagini/01_graph_1.tex' 
+#set output '/dev/null'
+
+plot 'dati_formattati/01dat.txt' using 1:2 w p title 'Dati da vicino' lt 1 lc rgb '#B20000',\
+fv(x) title 'Interpolazione da vicino' lt rgb '#FF0000',\
+'dati_formattati/01dat.txt' using 1:3 w p title 'Dati da lontano' lt 1 lc rgb '#0000cc',\
+fl(x) title 'Interpolazione da lontano' lt rgb '#1A00FF'
+
+#set output 'gnuplot/immagini/01_graph_1.tex'
+#set xtics add ('m' GPVAL_DATA_X_MIN, 'M' GPVAL_DATA_X_MAX)
+#set ytics add ('m' GPVAL_DATA_Y_MIN, 'M' GPVAL_DATA_Y_MAX)
+#bordox=(GPVAL_DATA_X_MAX-GPVAL_DATA_X_MIN)/10.0
+#bordoy=(GPVAL_DATA_Y_MAX-GPVAL_DATA_Y_MIN)/10.0
+#set xrange [GPVAL_DATA_X_MIN-bordox:GPVAL_DATA_X_MAX+bordox]
+#set yrange [GPVAL_DATA_Y_MIN-bordoy:GPVAL_DATA_Y_MAX+bordoy]
+#set xtics axis in nomirror rangelimit
+#set ytics axis in nomirror rangelimit
+#unset autoscale
+
+#replot
+
+#set output '01_graph_2.tex'
+
+#plot fv(x) title 'Interpolazione da vicino' lt rgb '#FF0000',\
+#fv_hh(x) title '' lt rgb '#FF8900',\
+#fv_hl(x) title '' lt rgb '#FF8900',\
+#fv_lh(x) title '' lt rgb '#FF8900',\
+#fv_ll(x) title '' lt rgb '#FF8900',\
+#fl(x) title 'Interpolazione da lontano' lt rgb '#1A00FF',\
+#fl_hh(x) title '' lt rgb '#4B76FF',\
+#fl_hl(x) title '' lt rgb '#4B76FF',\
+#fl_lh(x) title '' lt rgb '#4B76FF',\
+#fl_ll(x) title '' lt rgb '#4B76FF'
+

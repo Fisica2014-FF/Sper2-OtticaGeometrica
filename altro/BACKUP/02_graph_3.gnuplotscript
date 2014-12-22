@@ -9,6 +9,4 @@ g(x) = -x + q
 fit f(x) 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) via a,b
 fit g(x) 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) via q
 
-plot 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title "Dati Sperimentali",\
-f(x) title 'Interpolazione con due parametri' lt rgb '#008000',\
-g(x) title 'Interpolazione con un parametro'
+plot 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title "Dati Sperimentali", f(x) title 'Interpolazione con due parametri', g(x) title 'Interpolazione con un parametro'

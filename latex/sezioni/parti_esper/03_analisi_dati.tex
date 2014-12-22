@@ -14,12 +14,12 @@ sostituendo $L$ e $S$,
 f = \frac{L^2-S^2}{4L}
 \end{equation}
 e per trovare l'errore $\sigma_f$ deriviamo
-\begin{equation} \label{eq:dfdl}
+\begin{equation*} \label{eq:dfdl}
 \frac{\partial f}{\partial L} = \frac{L^2+S^2}{4L^2} \approx \frac{1}{4}
-\end{equation}
-\begin{equation}
+\end{equation*}
+\begin{equation*}
 \frac{\partial f}{\partial S} = -\frac{S}{2L}
-\end{equation}
+\end{equation*}
 
 Questi errori sono minimizzati per $L \approx 4f$, d'altra parte la 
 profondità di campo rende difficile una stima precisa della 
@@ -29,8 +29,10 @@ trovato una decina di misure di $p_1$ e $p_2$, e abbiamo calcolato per
 ciascuna il fuoco col suo errore (tutto ciò è illustrato nella 
 \autoref{tab:bessel}) e infine abbiamo fatto una media pesata per 
 ottenere la stima del fuoco col metodo di Bessel $f^{\star}_3$ e il 
-suo errore $\sigma_{f^{\star}_3}$
-
+suo errore $\sigma_{f^{\star}_3}$:
+\begin{equation}
+f^{\star}_3 = (6.588 \pm 0.007) \cm
+\end{equation}
 \begin{tabella}
 	\centering
 	\input{./tabelle/03_tab_1.tex}

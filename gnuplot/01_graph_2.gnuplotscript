@@ -1,0 +1,30 @@
+set terminal tikz
+set xlabel '$\mu [\cm]$'
+set ylabel 'diametro $[\mm]$'
+set xrange [-0.93:1.87]
+set yrange [-8:32]
+fv(x) = 0.175369 * x + 11.7421
+fv_hh(x) = 1.2046 * x + 12.2307
+fv_hl(x) = 1.2046 * x + 11.2535
+fv_lh(x) = -0.853857 * x + 12.2307
+fv_ll(x) = -0.853857 * x + 11.2535
+
+fl(x) = 24.7409 * x + 0.123264
+fl_hh(x) = 26.1175 * x + 0.776769
+fl_hl(x) = 26.1175 * x + -0.53024
+fl_lh(x) = 23.3643 * x + 0.776769
+fl_ll(x) = 23.3643 * x + -0.53024
+
+set output 'gnuplot/immagini/01_graph_2.tex'
+
+plot fv(x) title 'Interpolazione da vicino' lt 1 lc rgb '#FF0000',\
+fv_hh(x) title '' lt 2 lc rgb '#FF8900',\
+fv_hl(x) title '' lt 2 lc rgb '#FF8900',\
+fv_lh(x) title '' lt 2 lc rgb '#FF8900',\
+fv_ll(x) title '' lt 2 lc rgb '#FF8900',\
+fl(x) title 'Interpolazione da lontano' lt 1 lc rgb '#1A00FF',\
+fl_hh(x) title '' lt 2 lc rgb '#4B76FF',\
+fl_hl(x) title '' lt 2 lc rgb '#4B76FF',\
+fl_lh(x) title '' lt 2 lc rgb '#4B76FF',\
+fl_ll(x) title '' lt 2 lc rgb '#4B76FF'
+

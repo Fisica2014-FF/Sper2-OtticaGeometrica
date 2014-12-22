@@ -41,7 +41,7 @@ Si evince facilmente come nel "Campione I" ci siano dei punti visibilmente fuori
  risulta evidentemente no, infatti anche nella zona in cui il "Campione I" non è evidentemente sbagliato le due rette non coincidono,
  come si può vedere dal \autoref{fig:02graph2.tex} in cui sono stati riportati i dati non evidentemente sbagliati assieme alla rette
  che li
- interpolano $y = ax + b$, che si possono trovare nella \autoref{tab:02tab3}
+ interpolano $y = ax + b$, che si possono trovare nella \autoref{tab:02tab3}.
 %**02_graph_2.txt**	**02_tab_3.txt**
 \begin{grafico} \centering \input{../gnuplot/immagini/02_graph_2.tex} \caption{Le interpolazioni dei due campioni} \label{fig:02graph2.tex} \end{grafico}
 \begin{tabella}
@@ -72,7 +72,7 @@ Per comprendere quale dei due modi di interpretare il fenomeno sia più opportun
  siano $n_1$ nelle formule, e la retta con due parametri liberi ha 14 gradi di libertà, $n_2$).
  La formula utilizzata è:
 \[\mathcal{F}=\frac{\dfrac{{\sum_i \big( y_i-f_1 (c_i) \big) ^2} - {\sum_i \big( y_i-f_2 (c_i) \big) ^2}}{n_1-n_2}}{\dfrac{\sum_i \big( y_i-f_2 
-(c_i) \big) ^2}{n_2}}\]
+(c_i) \big) ^2}{n_2}}.\]
 
 Andando a calcolare la $\mathcal{F}$ da questa formula risulta $\mathcal{F} = 0.1740$. Ora, per capire quale delle due interpolazioni meglio si addice alla
  casistica trovata, va cercato nelle tabelle di riferimento relative alla funzione di Von Mises-Fisher, andando a leggere il valore
@@ -93,19 +93,19 @@ $f_x$ se l'intersezione è con l'asse delle $x$ e $f_y$ se l'intersezione è con
  stimata a partire dalle formule di interpolazione che massimizzano la verosimiglianza (anche questo riportato nella 
 \autoref{tab:02tab4}).
  Il primo valore del reciproco del fuoco quindi risulta:
-\[f_y = (0.1505 \pm 0.0003) \cm^{-1}\]
+\[f_y = (0.1505 \pm 0.0003) \cm^{-1}.\]
 
 Per quanto riguarda l'intersezione con l'asse delle $x$, stavolta il calcolo è leggermente più complesso, infatti sostituendo $y = 0$
  alla formula della retta interpolata si ottiene $f_x = -\frac{q}{m}$.  Per trovare l'incertezza a questo punto risulta necessario
  propagare gli errori su $m$ e su $q$. Applicando la solita formula di propagazione risulta
 \[\sigma_{f_x} = \sqrt {\frac{1} {m^2} \sigma_q^2 + \frac{q}{m^2} \sigma_m^2 + 2 \cov (q,m) }.\] Sostituendo,
  il reciproco del fuoco ha un valore di:
-\[f_x = (0.153 \pm 0.002) \cm^{-1}\]
+\[f_x = (0.153 \pm 0.002) \cm^{-1}.\]
 
 Per trovare il fuoco è necessario calcolare i reciproci di $f_x$ ed $f_y$, andando a propagare gli errori secondo la formula di 
 propagazione: $f'_x = \frac{1}{f_x}$ e $\sigma_{f'x} = \frac{\sigma_{fx}}{f_{x}^2}$ ed analogo per $f_y$. Da cui i risultati:
 \[f'_x = (6.55 \pm 0.09) \cm \]
-\[f'_y = (6.64 \pm 0.01) \cm \]
+\[f'_y = (6.64 \pm 0.01) \cm .\]
 
 Per dare un risultato finale, si possono includere tutti gli errori nel fatto che questi due numeri sono diversi: si può andare a
  stimare effettivamente il fuoco $f$ facendo una media aritmetica dei valori ottenuti e si può stimare l'incertezza
@@ -117,7 +117,7 @@ Si veda ora come si sarebbero potuti analizzare i dati considerando la retta con
  caso il risultato del fuoco, come del resto un'indicazione del suo errore statistico, ci vengono dati dai parametri interpolati e
  riportati nella \autoref{tab:02tab4}, per cui la lunghezza focale, calcolata come nel caso precedente trovando il reciproco
  dell'intercetta e propagando gli errori, sembrerebbe valere:
-\[f' = (6.604 \pm 0.009) \cm \]
+\[f' = (6.604 \pm 0.009) \cm .\]
 Ricordando però che i campioni raccolti per la stima della lunghezza focale attraverso il metodo dei punti coniugati erano due ed
  erano visibilmente poco compatibili tra loro, sorge spontaneo chiedersi quali siano gli errori sistematici collegati a tale metodo.
  Dalle formule della legge dei punti coniugati risulta che p dipende dalla posizione iniziale dell'oggetto, che tra
@@ -150,7 +150,7 @@ Da un confronto delle rette interpolanti nella \autoref{tab:02tab6} si può stim
  posizione del cavaliere portalampada. In particolare si può leggere l'effettivo valore del fuoco come quello collegato al
  campione realmente raccolto, e ad esso si può associare un errore sistematico legato alla massima distanza tra i fuochi fittizi
  ricavati dalle interpolazioni dei campioni fittizi, che risulta di 0.01~cm. Il valore finale risulta, quindi:
-\[f^{\star}_2 = (6.60 \pm 0.01) \cm\]
+\[f^{\star}_2 = (6.60 \pm 0.01) \cm.\]
 
 Dove è stata considerata la sommma tra gli errori statistici e gli errori sistematici su $P_O$, rispetto ai quali gli
  errori statistici precedentemente considerati risultano trascurabili.

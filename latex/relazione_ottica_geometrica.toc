@@ -2,11 +2,16 @@
 \select@language {italian}
 \contentsline {section}{\numberline {I}Apparato strumentale}{3}{section.1}
 \contentsline {section}{\numberline {II}Metodologia di misura}{4}{section.2}
+\contentsline {subsection}{\numberline {I}Metodo dell'autocollimazione}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {II}Metodo dei punti coniugati}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {III}Metodo di Bessel}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {IV}Aberrazione sferica}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {V}Aberrazione cromatica e numero di Abbe}{8}{subsection.2.5}
 \contentsline {section}{\numberline {III}Presentazione dei dati}{8}{section.3}
-\contentsline {subsection}{\numberline {I}Autocollimazione}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {I}Autocollimazione}{9}{subsection.3.1}
 \contentsline {subsection}{\numberline {II}Punti coniugati}{11}{subsection.3.2}
 \contentsline {subsection}{\numberline {III}Bessel}{19}{subsection.3.3}
 \contentsline {subsection}{\numberline {IV}Aberrazione sferica}{20}{subsection.3.4}
-\contentsline {subsection}{\numberline {V}Aberrazione cromatica}{22}{subsection.3.5}
-\contentsline {section}{\numberline {IV}Conclusioni}{24}{section.4}
-\contentsline {section}{\numberline {V}Codice}{24}{section.5}
+\contentsline {subsection}{\numberline {V}Aberrazione cromatica}{23}{subsection.3.5}
+\contentsline {section}{\numberline {IV}Conclusioni}{25}{section.4}
+\contentsline {section}{\numberline {V}Codice}{25}{section.5}

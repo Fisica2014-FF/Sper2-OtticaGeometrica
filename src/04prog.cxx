@@ -10,8 +10,8 @@
 
 double const sch = 40.80;
 int const N = 10;
-double const f = 6.89091; ///////
-double const sf = 0.151888; ///////
+double const f = 6.655; ///////
+double const sf = 0.0305226; ///////
 double const R = 1.4;
 using namespace std;
 

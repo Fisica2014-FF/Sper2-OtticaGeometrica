@@ -1,8 +1,14 @@
 set terminal tikz
-set xlabel '$\mu [\cm]$'
-set ylabel 'diametro $[\mm]$'
+set xlabel '$\mu [\cm\,]$'
+set ylabel 'Diametro $[\mm\,]$'
 set xrange [-0.93:1.87]
 set yrange [-8:32]
+
+#set border 3 front linetype -1 linewidth 1.000
+set zeroaxis
+set xtics axis
+set ytics axis
+
 fv(x) = 0.175369 * x + 11.7421
 fv_hh(x) = 1.2046 * x + 12.2307
 fv_hl(x) = 1.2046 * x + 11.2535

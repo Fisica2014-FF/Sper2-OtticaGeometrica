@@ -4,6 +4,13 @@ set output 'gnuplot/immagini/02_graph_1.tex'
 set xlabel '$\nicefrac{1}{p} [\cm^{-1}]$'
 set ylabel '$\nicefrac{1}{q} [\cm^{-1}]$'
 
+set border 3 front linetype -1 linewidth 1.000
+set xrange [0:*]
+set yrange [0:*]
+set xtics border out nomirror
+set ytics border out nomirror
+set mxtics
+set mytics
 
 
 plot 'dati_formattati/02dat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione I', 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione II' lt rgb '#008000'

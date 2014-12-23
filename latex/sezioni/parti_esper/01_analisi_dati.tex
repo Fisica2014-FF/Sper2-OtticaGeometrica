@@ -12,7 +12,13 @@ Per la stima della posizione del fuoco e il calcolo dell'incertezza, si consider
 \begin{equation} 
 f = P_L - P_O + \left(\mu _0 - \mu ^{\star}\right) + \frac{\mathrm{d}r}{2} - \frac{\overline{PP'}}{2}.
 \end{equation}
-Per la stima di $ \mu ^{\star} $, valore del micrometro per cui il fascio \`e parallelo, si sono interpolati i diametri del fascio in ordinata con i valori indicati dal micrometro: $ \mu ^{\star}$ \`e individuato dall'intersezione delle due rette interpolanti nel \autoref{fig:01_graph_1.tex}.
+Per la stima di $ \mu ^{\star} $, valore del micrometro per cui il fascio \`e parallelo, si sono interpolati i diametri del fascio in ordinata con i valori indicati dal micrometro: $ \mu ^{\star}$ \`e individuato dall'intersezione delle due rette interpolanti ($y=a+bx$ per la prima, con notazione simile per la seconda) nel \autoref{fig:01_graph_1.tex}, i cui parametri sono nella \autoref{tab:01tab2}.
+\begin{tabella}
+	\centering
+	\input{./tabelle/01_tab_2.tex}
+	\caption{Coefficienti delle rette interpolanti}
+	\label{tab:01tab2}
+\end{tabella}
 
 \begin{grafico} \centering \input{../gnuplot/immagini/01_graph_1.tex} \caption{Interpolazione lineare} \label{fig:01_graph_1.tex} \end{grafico}
 
@@ -22,7 +28,7 @@ da cui, grazie alla formula di propagazione quadratica, si ottiene, considerando
 \begin{equation*}
 \begin{split} % align numera tutte le righe e se devo toglierne una devo usare \nonumber alla fine della riga, align* nessuna. Meglio split che numera solo una volta
 	\sigma^2_{\mu ^{\star}\left(a, a', b, b'\right)}  &= \left(\left.\frac{\partial F}{\partial a}\right|_{x_{\mathrm{int}}}\right)^2   \sigma^2_{a} + \left(\left.\frac{\partial F}{\partial a'}\right|_{x_{\mathrm{int}}}\right)^2   \sigma^2_{a'} + \left(\left.\frac{\partial F}{\partial b}\right|_{x_{\mathrm{int}}}\right)^2   \sigma^2_{b} +\\
-								&+ \left(\left.\frac{\partial F}{\partial b'}\right|_{x_{\mathrm{int}}}\right)^2   \sigma^2_{b} + 2\left(\left.\frac{\partial F}{\partial a}\right|_{x_{\mathrm{int}}}\right)\left(\left.\frac{\partial F}{\partial b}\right|_{x_{\mathrm{int}}}\right)   \cov\left(a, b\right) + \\
+								&+ \left(\left.\frac{\partial F}{\partial b'}\right|_{x_{\mathrm{int}}}\right)^2   \sigma^2_{b'} + 2\left(\left.\frac{\partial F}{\partial a}\right|_{x_{\mathrm{int}}}\right)\left(\left.\frac{\partial F}{\partial b}\right|_{x_{\mathrm{int}}}\right)   \cov\left(a, b\right) + \\
 								&+ 2\left(\left.\frac{\partial F}{\partial a'}\right|_{x_{\mathrm{int}}}\right)\left(\left.\frac{\partial F}{\partial b'}\right|_{x_{\mathrm{int}}}\right)^2   \cov \left(a', b'\right)
 \end{split}
 \end{equation*}
@@ -30,23 +36,21 @@ che, sotto radice quadrata, d\`a l'incertezza per $ \mu ^{\star} $, considerando
 Svolgendo i calcoli, si trova
 \begin{equation}
 \begin{split}
-\sigma^2_{\mu ^{\star}\left(a, a', b, b'\right)}  &= \left(\left.\frac{1}{b'- b}\right|_{x_{\mathrm{int}}}\right)^2   \left(\sigma^2_{a} + \sigma^2_{a'}\right) + \left(\left.\frac{a - a'}{\left(b' - b\right)^2}\right|_{x_{\mathrm{int}}}\right)^2 \left(\sigma^2_{b} + \sigma^2_{b'}\right) + \\
+\sigma^2_{\mu ^{\star}}  &= \left(\left.\frac{1}{b'- b}\right|_{x_{\mathrm{int}}}\right)^2   \left(\sigma^2_{a} + \sigma^2_{a'}\right) + \left(\left.\frac{a - a'}{\left(b' - b\right)^2}\right|_{x_{\mathrm{int}}}\right)^2 \left(\sigma^2_{b} + \sigma^2_{b'}\right) + \\
 							&+ 2 \left(\left.\frac{1}{b'- b}\right|_{x_{\mathrm{int}}}\right) \left(\left.\frac{a - a'}{\left(b' - b\right)^2}\right|_{x_{\mathrm{int}}}\right) \big(\cov\left(a, b\right) + \cov(a', b') \big).
 \end{split}
 \end{equation}
 Calcoliamo le covarianze:
 \[ \cov\left(a, b\right) = -\frac{\sum_{i} x_i}{\Delta}\sigma_y^2 \] 
 dove $\Delta$ \`e il parametro di interpolazione lineare; vale lo stesso per a' e b', con le adeguate (x, y).
-\[ \cov(a, b) = -0.501 , \cov(a', b') = -0.895 . \]
+\[ \cov(a, b) = -0.501 , \\ \cov(a', b') = -0.895 . \]
 L'incertezza cos\`i calcolata risulta di $0.0003\cm$, molto bassa a causa della precisione micrometrica, migliorata grazie al fit lineare. Tuttavia si ritiene pi\`u corretto considerarla non pi\`u bassa dell'incertezza strumentale. L'intersezione \`e quindi stimata come
-\[ \mu ^{\star} =  \left(0.473 \pm 0.001\right) \cm. \] %errore un po' bassino %non piu' --Gab
+\[ \mu ^{\star} =  \left(0.473 \pm 0.001\right) \cm. \] 
 
 Per rendere visivamente apprezzabile l'incertezza sulle rette, \`e stato creato un grafico (\autoref{fig:01_graph_2.tex}) contenente le rette tracciate per i valori estremali della quota e del coefficiente angolare.
 \begin{grafico} \centering \input{../gnuplot/immagini/01_graph_2.tex} \caption{Incertezza sulle rette} \label{fig:01_graph_2.tex} \end{grafico}
 
 Si trova per il fuoco il valore 
-\[ f^/star_1=\left(6.72 \pm 0.07\right) \cm , \] 
-si \`e considerata trascurabile l'incertezza su $\mu^{\star}$ (la scelta di considerare l'incertezza strumentale non influisce quindi sugli altri risultati) rispetto a quello fornito dal laboratorio su $P_L$ e $P_O$, pari a $\sigma _P = 0.05 \cm$: ci\`o porta propagando a un'incertezza di $\sqrt{2}   \sigma_P = 0.07 \cm$. Tale stima va considerata a meno della correzione di aberrazione sferica, che verr\`a compiuta sulla miglior stima del valore di $f$).
+\[ f^{\star}_1=\left(6.72 \pm 0.07\right) \cm , \] 
+si \`e considerata trascurabile l'incertezza su $\mu^{\star}$ (la scelta di considerare l'incertezza strumentale non influisce quindi sugli altri risultati) rispetto a quella fornito dal laboratorio su $P_L$ e $P_O$, pari a $\sigma _P = 0.05 \cm$: ci\`o porta propagando a un'incertezza di $\sqrt{2}   \sigma_P = 0.07 \cm$. Tale stima va considerata a meno della correzione di aberrazione sferica (per la quale cfr. \autoref{subsec:aberrazione_sferica}).
 
-% Io mi dilungherei personalmente un pochino di più sulla questione dell'errore, ho capito che è calato dall'alto, però ne parlerei con un po' più precisione: intendo, io direi qualcosa del tipo "L'incertezza è presa di 0.7 perché a causa dei ritardi delle componenti meccaniche e degli errori di lettura è stato precedentemente verificato che il valore della posizione di ogni cavaliere ha un'incertezza di 0.05 cm -tra l'altro Gabriele, c'è uno zero che mi manca qui-, per cui l'incertezza -Non usare errore, nella prima lezione che abbiamo fatto con lui ha fatto un discorso su come gli erorri siano una cosa, mentre quello che stima un fisico è un'incertezza- è data dalla somma quadratica di tutte le incertezze presenti nella formula, ma da un'occhiata rapida risulta evidente come tutte le incertezze sono effettivamente trascurabili rispetto a quelle su $P_L$ e $P_o$, per cui l'incertezza si riduce a $\radq{2}   \sigma_{posizionamento} = 0.07 \cm$" ---Davide
-% CORR1: Per quanto riguarda l'err... l'incertezza sono stato piu' preciso. Per la spiegazione di mustar si veda all'inizio del doc, per muzero effettivamente va inserito, lo metterei nella metodologia di misura. Inserisco anche l'errore su muzero e mustar.

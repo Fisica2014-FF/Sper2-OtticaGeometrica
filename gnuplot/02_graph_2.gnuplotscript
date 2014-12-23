@@ -19,5 +19,5 @@ fit g(x) 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):
 
 plot 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione I' lt rgb '#B20000',\
 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione II' lt rgb '#0000cc',\
-f(x) lt rgb '#FF0000',\
-g(x) lt rgb '#1A00FF'	#orange, blue, red, green
+f(x) lt 1 lc rgb '#FF0000',\
+g(x) lt 1 lc rgb '#1A00FF'	#orange, blue, red, green

@@ -4,7 +4,7 @@ set ylabel 'Diametro $[\mm\,]$'
 set xrange [-0.93:1.87]
 set yrange [-8:32]
 
-#set border 3 front linetype -1 linewidth 1.000
+set border 0 front linetype -1 linewidth 1.000
 set zeroaxis
 set xtics axis
 set ytics axis

@@ -41,7 +41,7 @@
 \usepackage[italian]{babel}
 %\usepackage[kerning,spacing,tracking,letterspace = 2,babel]{microtype} % Slightly tweak font spacing for aesthetics. Il tre è pensato per Alegreya
 \usepackage[kerning,spacing,babel]{microtype}
-%\SetTracking[]{encoding = *,shape = *}{3} % Aumenta la distanza fra le lettere
+\SetTracking[]{encoding = *,shape = *}{3} % Aumenta la distanza fra le lettere
 							     % http://tex.stackexchange.com/questions/66494/new-command-for-spacing-letters-in-microtype
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Miei package
@@ -73,6 +73,26 @@
 \usepackage{booktabs} % Horizontal rules in tables
 \usepackage{float} % Required for tables and figures in the multi-column environment - they need to be placed in specific locations with the [H] (e.g. \begin{table}[H])
 \usepackage[hidelinks]{hyperref} % For hyperlinks in the PDF
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={Ottica geometrica},    % title
+    pdfauthor={D. Chiappara, G. Labanca, F. Forcher},     % author
+    pdfsubject={Relazione di ottica geometrica},   % subject of the document
+    %pdfcreator={Creator},   % creator of the document
+    %pdfproducer={Producer}, % producer of the document
+    pdfkeywords={ottica} {geometrica} {relazione}, % list of keywords
+    %pdfnewwindow=true,      % links in new PDF window
+    %colorlinks=false,       % false: boxed links; true: colored links
+    linkcolor=red,          % color of internal links (change box color with linkbordercolor)
+    citecolor=green,        % color of links to bibliography
+    filecolor=magenta,      % color of file links
+    urlcolor=cyan           % color of external links
+}
 \usepackage{nicefrac} % Per le frazioni tipo ⅛
 \usepackage{pdfpages} % Per includere pagine intere in pdf (per la copertina)
 %\usepackage[squaren]{siunitx}
@@ -133,6 +153,8 @@
 \fancyhead{} % Blank out the default header
 \fancyfoot{} % Blank out the default footer
 \headheight=14pt % Perchè sennò continua a lamentarsi che 12pt è troppo poco e la mette a 14 lo stesso
-\fancyhead[C]{Chiappara, Labanca, Forcher - \textit{Ottica geometrica} $\bullet$ \thesection} % Custom header text. \nouppercase{\leftmark} per sezione, ma non ci sta
+%\fancyhead[C]{Chiappara, Labanca, Forcher - \textit{Ottica geometrica} $\bullet$ \thesection}
+\fancyhead[L]{\textit{Ottica geometrica}} % Custom header text. \nouppercase{\leftmark} per sezione, ma non ci sta
+\fancyhead[R]{\textsc{\nouppercase{\leftmark}}}
 \fancyfoot[RO,LE]{\thepage} % Custom footer text
 

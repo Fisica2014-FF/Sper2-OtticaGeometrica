@@ -5,10 +5,10 @@ imprecisioni nel posizionamento dei cavalieri. Il metodo consiste
 nel fissare lo schermo e l'oggetto, e muovere la lente fino a 
 trovare i fuochi. 
 
-Ci saranno due posizioni della lente, come spiegato sotto. Chiamiamo 
+Si troveranno due posizioni della lente, come spiegato sotto. Chiamiamo 
 $L$ la distanza tra l'oggetto e lo schermo (sarà quindi fissata, e 
-dovrà essere $L \geq 4f$), e $S=p_2-p_1$ la differenza di posizioni $p_1$ e $p_2$ della 
-lente.  Dalla formula \eqref{eq:punticoniugati} si ricava, 
+dovrà essere $L \geq 4f$, e $S=p_2-p_1$ la differenza di posizioni $p_1$ e $p_2$ della 
+lente dove l'immagine sia a fuoco).  Dalla formula \eqref{eq:punticoniugati} si ricava, 
 sostituendo $L$ e $S$,
 \begin{equation}
 f = \frac{L^2-S^2}{4L}
@@ -23,13 +23,21 @@ e per trovare l'errore $\sigma_f$ deriviamo
 
 Questi errori sono minimizzati per $L \approx 4f$, d'altra parte la 
 profondità di campo rende difficile una stima precisa della 
-posizione di coincidenza. Quindi meglio usare valori di $L$ di poco 
-superiori a $4f$ (calcolato con le stime precedenti). Abbiamo dunque 
-trovato una decina di misure di $p_1$ e $p_2$, e abbiamo calcolato per 
-ciascuna il fuoco col suo errore (tutto ciò è illustrato nella 
-\autoref{tab:bessel}) e infine abbiamo fatto una media pesata per 
-ottenere la stima del fuoco col metodo di Bessel $f^{\star}_3$ e il 
-suo errore $\sigma_{f^{\star}_3}$:
+posizione di coincidenza. Si \`e scelto quindi di usare valori di $L$ di poco 
+superiori a $4f$ (calcolato con le stime precedenti). 
+Ricordando che
+\begin{align}
+	 P_O &= 13.15 \cm \\
+	 P_S &= 55.00 \cm \\
+	 %\overline{VV'} &= 0.8 \cm \\
+	 %\overline{PP'} &\approx \overline{VV'}/3 = 0.267 \cm \\
+	 L &= P_S -P_0 -\overline{PP'}
+\end{align}
+si sono trovate una decina di misure di $p_1$ e 
+$p_2$, e si \`e calcolato per ciascuna il fuoco col suo errore 
+(tutto ciò è illustrato nella \autoref{tab:bessel}) effettuando 
+infine una media pesata per ottenere la stima del fuoco col metodo 
+di Bessel $f^{\star}_3$ e il suo errore $\sigma_{f^{\star}_3}$:
 \begin{equation}
 f^{\star}_3 = (6.588 \pm 0.007) \cm
 \end{equation}

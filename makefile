@@ -8,12 +8,13 @@ TEMPLATE_SCRIPT = $(wildcard ./gnuplot/*.templatescript)
 relazione: $(PDF_RELAZIONE)
 	echo "Faccio la relazione..."
 	cp $(PDF_RELAZIONE) ./
+	cp $(PDF_RELAZIONE) ./altro/
 
 # Da aggiungere le tabelle
 $(PDF_RELAZIONE): grafici
 	echo "Faccio il pdf..."
 #Ogni riga viene eseguita in una subshell diversa, quindi se faccio cd devo mettere sulla stessa linea gli altri comandi che necessitano dell'effetto di cd
-	cd ./latex; pwd; pdflatex ./relazione_*.tex
+	cd ./latex; pwd; latexmk -pdf ./relazione_*.tex
 
 grafici: generaGnuplotScript
 	echo "Faccio i grafici..."
@@ -29,10 +30,9 @@ generaGnuplotScript: $(TEMPLATE_SCRIPT)
 clean:
 # @echo fa in modo che make non "echi" anche echo "Faccio il clean..."
 	@echo "Faccio il clean..."
-	-rm ./Relazione_*.pdf
-	-rm $(PDF_RELAZIONE)
+	-cd ./latex; pwd; latexmk -C -pdf ./relazione_*.tex
+	-rm ./relazione_*.pdf
 	-rm ./gnuplot/immagini/*
 	-rm ./gnuplot/fit/*
 	-rm ./*.log
-	-rm ./latex/*.toc ./latex/*.log ./latex/*.aux ./latex/*.lof ./latex/*.lot
 	-rm ./temp/*

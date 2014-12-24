@@ -9,6 +9,8 @@ set zeroaxis
 set xtics axis
 set ytics axis
 
+set key right bottom
+
 fv(x) = 0.175369 * x + 11.7421
 fv_hh(x) = 1.2046 * x + 12.2307
 fv_hl(x) = 1.2046 * x + 11.2535

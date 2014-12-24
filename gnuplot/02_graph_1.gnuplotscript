@@ -12,6 +12,7 @@ set ytics border out nomirror
 set mxtics
 set mytics
 
+set key left top
 
-plot 'dati_formattati/02dat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione I', 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione II' lt rgb '#008000'
+plot 'dati_formattati/02dat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title 'Campione I', 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5)) title ' Campione II' lt rgb '#008000'
 

@@ -10,11 +10,12 @@ set border 3 front linetype -1 linewidth 1.000
 set xtics border in nomirror rangelimit
 set ytics border in nomirror rangelimit
 
-set autoscale xykeepfix
+#set autoscale xykeepfix
 set offsets graph 0.02, 0.02, 0.02, 0.02
 set mxtics 2
 set mytics 2
 
+set key left top
 
 
 #set xtics STATS_min_x,(STATS_max_x-STATS_min_x)/2.0,STATS_max_x

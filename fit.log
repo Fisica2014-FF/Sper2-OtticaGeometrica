@@ -1,7 +1,7 @@
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:32 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -48,7 +48,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:32 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -95,7 +95,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -142,7 +142,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -186,7 +186,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -230,7 +230,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:33 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -274,7 +274,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:02 2014
+Tue Dec 23 20:15:33 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -318,7 +318,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -365,7 +365,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -412,7 +412,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -459,7 +459,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -503,7 +503,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -547,7 +547,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -591,7 +591,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:47:45 2014
+Tue Dec 23 20:50:31 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -635,7 +635,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -682,7 +682,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -729,7 +729,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -776,7 +776,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -820,7 +820,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -864,7 +864,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -908,7 +908,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:48:20 2014
+Tue Dec 23 20:51:51 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -952,7 +952,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -999,7 +999,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1046,7 +1046,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1093,7 +1093,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1137,7 +1137,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -1181,7 +1181,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -1225,7 +1225,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:51:56 2014
+Tue Dec 23 20:53:51 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -1269,7 +1269,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1316,7 +1316,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1363,7 +1363,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1410,7 +1410,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1454,7 +1454,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -1498,7 +1498,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -1542,7 +1542,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 11:52:42 2014
+Wed Dec 24 11:17:33 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -1586,7 +1586,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1633,7 +1633,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1680,7 +1680,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1727,7 +1727,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1771,7 +1771,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -1815,7 +1815,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -1859,7 +1859,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:05:59 2014
+Wed Dec 24 11:20:08 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -1903,7 +1903,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1950,7 +1950,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -1997,7 +1997,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2044,7 +2044,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2088,7 +2088,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -2132,7 +2132,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -2176,7 +2176,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:21:51 2014
+Wed Dec 24 11:20:39 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -2220,7 +2220,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2267,7 +2267,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2314,7 +2314,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2361,7 +2361,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2405,7 +2405,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -2449,7 +2449,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -2493,7 +2493,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:34:14 2014
+Wed Dec 24 11:21:51 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -2537,7 +2537,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2584,7 +2584,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2631,7 +2631,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2678,7 +2678,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2722,7 +2722,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -2766,7 +2766,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -2810,7 +2810,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 12:40:50 2014
+Wed Dec 24 11:22:33 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -2854,7 +2854,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2901,7 +2901,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2948,7 +2948,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -2995,7 +2995,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3039,7 +3039,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -3083,7 +3083,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -3127,7 +3127,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:06:12 2014
+Wed Dec 24 11:23:52 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -3171,7 +3171,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3218,7 +3218,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3265,7 +3265,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3312,7 +3312,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3356,7 +3356,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -3400,7 +3400,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -3444,7 +3444,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:08:10 2014
+Wed Dec 24 11:24:23 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
@@ -3488,7 +3488,7 @@ c               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3535,7 +3535,7 @@ m              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3582,7 +3582,7 @@ b              -0.871  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3629,7 +3629,7 @@ b              -0.882  1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
@@ -3673,7 +3673,7 @@ q               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
@@ -3717,7 +3717,7 @@ a               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
@@ -3761,2226 +3761,7 @@ b               1.000
 
 
 *******************************************************************************
-Tue Dec 23 13:10:12 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:14 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:11:36 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:13:20 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:15:31 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:26:57 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 13:32:57 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphplus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: h(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5143           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-c               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 1.32368e-05
-rel. change during last iteration : -4.56893e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000939391
-variance of residuals (reduced chisquare) = WSSR/ndf   : 8.82456e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-c               = 0.151681         +/- 0.0002348    (0.1548%)
-
-
-correlation matrix of the fit parameters:
-
-               c      
-c               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-q               = 1
-m               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98445e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.150547         +/- 0.0003251    (0.2159%)
-m               = -0.98633         +/- 0.004497     (0.456%)
-
-
-correlation matrix of the fit parameters:
-
-               q      m      
-q               1.000 
-m              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
-
-
-FIT:    data read from 'dati_formattati/02Camp1Puliti.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 8
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 6.55279           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.707395
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 4.3756e-06
-rel. change during last iteration : -6.85767e-08
-
-degrees of freedom    (FIT_NDF)                        : 6
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000853971
-variance of residuals (reduced chisquare) = WSSR/ndf   : 7.29267e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.877874        +/- 0.02153      (2.452%)
-b               = 0.142022         +/- 0.0006145    (0.4326%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.871  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 15.3156           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 0.708951
-
-initial set of free parameter values
-
-a               = 1
-b               = 1
-
-After 5 iterations the fit converged.
-final sum of squares of residuals : 5.26847e-06
-rel. change during last iteration : -2.98091e-12
-
-degrees of freedom    (FIT_NDF)                        : 14
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000613449
-variance of residuals (reduced chisquare) = WSSR/ndf   : 3.76319e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = -0.98633         +/- 0.004497     (0.456%)
-b               = 0.150547         +/- 0.0003251    (0.2159%)
-
-
-correlation matrix of the fit parameters:
-
-               a      b      
-a               1.000 
-b              -0.882  1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
-
-
-FIT:    data read from 'dati_formattati/02betadat.fdat' using (1.0/($2-$1+0.1*$4-0.1*$5)):(1.0/($3-$2-0.1*$4-0.1*$5))
-        format = x:z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-q               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74521e-06
-rel. change during last iteration : -6.95431e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763554
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83014e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-q               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               q      
-q               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
-
-
-FIT:    data read from 'dati_formattati/02betadatgraph.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5215           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-a               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 8.74679e-06
-rel. change during last iteration : -7.28232e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000763622
-variance of residuals (reduced chisquare) = WSSR/ndf   : 5.83119e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-a               = 0.151418         +/- 0.0001909    (0.1261%)
-
-
-correlation matrix of the fit parameters:
-
-               a      
-a               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
-
-
-FIT:    data read from 'dati_formattati/MCgraphminus.fdat'
-        format = z
-        x range restricted to [0.00000 : *]
-        #datapoints = 16
-        residuals are weighted equally (unit weight)
-
-function used for fitting: g(x)
-fitted parameters initialized with current variable values
-
-
-
- Iteration 0
- WSSR        : 11.5285           delta(WSSR)/WSSR   : 0
- delta(WSSR) : 0                 limit for stopping : 1e-05
- lambda	  : 1
-
-initial set of free parameter values
-
-b               = 1
-
-After 4 iterations the fit converged.
-final sum of squares of residuals : 6.20029e-06
-rel. change during last iteration : -9.79508e-14
-
-degrees of freedom    (FIT_NDF)                        : 15
-rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000642925
-variance of residuals (reduced chisquare) = WSSR/ndf   : 4.13352e-07
-
-Final set of parameters            Asymptotic Standard Error
-=======================            ==========================
-
-b               = 0.151158         +/- 0.0001607    (0.1063%)
-
-
-correlation matrix of the fit parameters:
-
-               b      
-b               1.000 
-
-
-*******************************************************************************
-Tue Dec 23 16:48:59 2014
+Wed Dec 24 11:24:55 2014
 
 
 FIT:    data read from 'dati_formattati/MCgraphplus.fdat'

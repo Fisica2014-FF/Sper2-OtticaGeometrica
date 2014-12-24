@@ -1,20 +1,32 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{float}
-\usepackage{caption}
+%\usepackage{float}
+%\usepackage{caption}
 %\usepackage{multirow}
 %\usepackage[top=3.6cm, bottom=1.5in, left=0.5in, right=0.5in]{geometry}
 
+%%%%%%%%%%%%%%%%%
+% Robe del package tocloft per fare gli indici delle mie tabelle e grafici
+% texblog.org/2008/07/13/define-your-own-list-of/
+%\newcommand{\listtabellaname}{Lista delle tabelle}
+%\newlistof{tabella}{tab}{\listtabellaname}
+
+
+%%%%%%%%%%%%%%%%%
+
 % I miei stili di float, con le righe
 \floatstyle{plaintop}
-\newfloat{tabella}{tb}{lop}
+\newfloat{tabella}{tb}{lop} 
 \floatname{tabella}{Tabella}
 
 \floatstyle{ruled}
-\newfloat{grafico}{tb}{log}
+\newfloat{grafico}{tb}{loi} 
 \floatname{grafico}{Grafico}
 
 \newcommand{\tabellaautorefname}{\bfseries Tabella} % per \autoref del package hyperref
 \newcommand{\graficoautorefname}{\bfseries Grafico} % Idem
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5%%%%%%%%%%%%%
 
 \newcommand{\cm}{\,\mathrm{cm}}

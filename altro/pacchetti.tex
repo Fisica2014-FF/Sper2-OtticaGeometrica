@@ -19,15 +19,15 @@
 \usepackage{lipsum} % Package to generate dummy text throughout this template
 
 %\usepackage[sc]{mathpazo} % Use the Palatino font
-\usepackage{tgpagella} % TeX Gyre Pagella, versione migliorata di Palatino. Si ma bo, no
-%\usepackage{inconsolata} % Font monospace
+%\usepackage{tgpagella} % TeX Gyre Pagella, versione migliorata di Palatino. Si ma bo, no
+%\usepackage{inconsolata}
 \usepackage{textcomp}
 \usepackage[scale=0.98,ttdefault]{AnonymousPro}
 
 %%%%%
-%\usepackage{Alegreya} %% Option 'black' gives heavier bold face 
+\usepackage{Alegreya} %% Option 'black' gives heavier bold face 
 \usepackage{AlegreyaSans} %% Option 'black' gives heavier bold face 
-%\renewcommand*\oldstylenums[1]{{\AlegreyaOsF #1}}
+\renewcommand*\oldstylenums[1]{{\AlegreyaOsF #1}}
 \usepackage{opensans}
 %\usepackage[euler-digits,euler-hat-accent]{eulervm}
 \usepackage[euler-hat-accent]{eulervm}
@@ -36,7 +36,7 @@
 \usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
 
 \usepackage[utf8]{inputenc} % Consente l'uso caratteri accentati italiani
-\linespread{1.08} % Line spacing - Palatino needs more space between lines, messo a 1.08 da 1.11 che era per alegreya
+\linespread{1.11} % Line spacing - Palatino needs more space between lines, messo a 1.08 da 1.11 che era per alegreya
 \usepackage{amsmath, amsthm, amssymb, amsfonts}
 \usepackage[italian]{babel}
 %\usepackage[kerning,spacing,tracking,letterspace = 2,babel]{microtype} % Slightly tweak font spacing for aesthetics. Il tre è pensato per Alegreya
@@ -72,8 +72,7 @@
 \usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats in tables or figures
 \usepackage{booktabs} % Horizontal rules in tables
 \usepackage{float} % Required for tables and figures in the multi-column environment - they need to be placed in specific locations with the [H] (e.g. \begin{table}[H])
-%\usepackage{tocloft} % Per customizzare le liste di floats (per i custom float!)
-\usepackage[titles]{tocloft} %Pare causi meno casini con fancyhdr
+
 \usepackage{nicefrac} % Per le frazioni tipo ⅛
 \usepackage{pdfpages} % Per includere pagine intere in pdf (per la copertina)
 %\usepackage[squaren]{siunitx}
@@ -115,7 +114,7 @@
   showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
   showstringspaces=false,          % underline spaces within strings only
   showtabs=false,                  % show tabs within strings adding particular underscores
-  stepnumber=1,                    % the step between two line-numbers. If it's 1, each line will be numbered
+  stepnumber=2,                    % the step between two line-numbers. If it's 1, each line will be numbered
   %stringstyle=\color{mymauve},     % string literal style
   tabsize=2,                       % sets default tabsize to 2 spaces
   title=\lstname                   % show the filename of files included with \lstinputlisting; also try caption instead of title

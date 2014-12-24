@@ -5,7 +5,7 @@
 \contentsline {subsection}{\numberline {I}Autocollimazione}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {II}Punti coniugati}{6}{subsection.2.2}
 \contentsline {subsection}{\numberline {III}Bessel}{6}{subsection.2.3}
-\contentsline {subsection}{\numberline {IV}Aberrazione sferica}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {IV}Aberrazione sferica}{6}{subsection.2.4}
 \contentsline {subsection}{\numberline {V}Aberrazione cromatica e numero di Abbe}{8}{subsection.2.5}
 \contentsline {section}{\numberline {III}Presentazione dei dati}{8}{section.3}
 \contentsline {subsection}{\numberline {I}Autocollimazione}{9}{subsection.3.1}

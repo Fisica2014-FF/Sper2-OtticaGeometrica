@@ -1,0 +1,13 @@
+dataBessel := ReadList["~/Dropbox/Laboratorio/03betadat.txt",Number,RecordLists->True];
+p0 = 13.15;
+ps = 55.00;
+vv= 0.8;
+pp=vv/3;
+L=ps-p0-pp;
+funzfuoco[{p1_,p2_}] := (L^2- (p2- p1)^2)/(4L);
+(*fuoco = Mean[funzfuoco /@ dataBessel];*)
+sigmafuoco[{p1_,p2_}] := Sqrt[((p2- p1)/(2L) 0.7)^2+(0.7/4)^2];
+fuochi = funzfuoco /@ dataBessel;
+sigmafuochi = sigmafuoco /@ dataBessel;
+devstand= 1/Total[1/sigmafuochi^2]
+media = Total[fuochi/sigmafuochi^2]/Total[1/sigmafuochi^2]

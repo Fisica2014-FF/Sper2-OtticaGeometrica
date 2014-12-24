@@ -36,3 +36,4 @@ e sostituire con
 
 Mentre per le parentesi sostituire semplicemente ( e ) con \left( e right)
 
+COsa ho fatto: modificati paragrafi, corretto sommma e signolo, tabella 5 aggiunti parametri

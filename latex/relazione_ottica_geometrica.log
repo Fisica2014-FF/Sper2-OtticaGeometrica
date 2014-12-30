@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.10.14)  24 DEC 2014 14:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.12.28)  28 DEC 2014 09:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1666,11 +1666,6 @@ Overfull \hbox (8.77225pt too wide) in paragraph at lines 129--23
 
 Package hyperref Info: bookmark level for unknown grafico defaults to 0 on inpu
 t line 23.
-
-Overfull \hbox (79.48705pt too wide) in paragraph at lines 42--42
-[] 
- []
-
 [9] (../gnuplot/immagini/01_graph_2.tex)
 Overfull \hbox (8.77225pt too wide) in paragraph at lines 206--52
  [][] 
@@ -1761,7 +1756,7 @@ nged.
 Here is how much of TeX's memory you used:
  29691 strings out of 493304
  505207 string characters out of 6139870
- 944647 words of memory out of 5000000
+ 943647 words of memory out of 5000000
  31646 multiletter control sequences out of 15000+600000
  193196 words of font info for 209 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1792,7 +1787,7 @@ ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre
 xmf/fonts/type1/public/tex-gyre/qplr.pfb></usr/share/texmf/fonts/type1/public/t
 ex-gyre/qplri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/avantgar/uagk8
 a.pfb>
-Output written on relazione_ottica_geometrica.pdf (36 pages, 472831 bytes).
+Output written on relazione_ottica_geometrica.pdf (36 pages, 472807 bytes).
 PDF statistics:
  1046 PDF objects out of 1200 (max. 8388607)
  971 compressed objects within 10 object streams

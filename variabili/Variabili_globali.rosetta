@@ -1,0 +1,20 @@
+# File di prova del Progetto Rosetta
+# Contiene variabili globali per tutta la relazione
+# Le righe il cui PRIMO carattere è il cancelletto # sono ignorate
+# Anche le righe vuote
+
+# In effetti, gli spazi non contano
+
+# Ci sono due tipi per ora di righe possibili, quelle dirette di valori e quelle di funzioni.
+a = 3
+b_err = -2.5
+c1 = -4
+
+# Ecco un pò di funzioni
+
+f1(x) = 3*a*x^2 + (b_err+2)*x - 3.0/2 - c1*2.1
+h_ciao(x,y) = x^2+y^2
+g(x) = 3*h(8,x) + 2*a
+
+# LIMITAZIONE Per il momento niente funzioni come argomenti di altre funzioni, sorry
+# g2(x) = 3*h(f1(8), f1(x)) + 2*a
